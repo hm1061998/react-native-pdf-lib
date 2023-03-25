@@ -14,8 +14,8 @@ Pod::Spec.new do |s|
   s.platforms    = { :ios => "11.0" }
   s.source       = { :git => "https://github.com/hm1061998/react-native-pdf-lib.git", :tag => "#{s.version}" }
 
-  s.source_files = "ios/**/*.{h,m,mm}", "ios/lib/**/*"
-  s.ios.vendored_libraries = ["ios/lib/universal/libFreeType.a", "ios/lib/universal/libLibJpeg.a", "ios/lib/universal/libLibTiff.a", "ios/lib/universal/libPDFWriter.a", "ios/lib/universal/libZlib.a"]
+  s.source_files = "ios/**/*.{h,m,mm}", "ios/libs/**/*"
+  s.ios.vendored_libraries = ["ios/libs/universal/libFreeType.a", "ios/libs/universal/libLibJpeg.a", "ios/libs/universal/libLibTiff.a", "ios/libs/universal/libPDFWriter.a", "ios/libs/universal/libZlib.a"]
   s.dependency "React-Core"
 
   # Don't install the dependencies when we run `pod install` in the old architecture.

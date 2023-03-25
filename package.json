@@ -1,5 +1,5 @@
 {
-  "name": "@kamo/react-native-pdf-lib",
+  "name": "react-native-pdf-lib-plugin",
   "version": "0.1.0",
   "description": "test",
   "main": "lib/commonjs/index",

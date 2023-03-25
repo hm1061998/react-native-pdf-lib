@@ -615,7 +615,7 @@ SPEC CHECKSUMS:
   React-jsinspector: 1f51e775819199d3fe9410e69ee8d4c4161c7b06
   React-logger: 0d58569ec51d30d1792c5e86a8e3b78d24b582c6
   react-native-multiple-image-picker: ba2725d577e1da7fa83ce1b12a81d84107556240
-  react-native-pdf-lib: 0f5126bab97ad11a5f0cc5439e68b5788eb1f2bb
+  react-native-pdf-lib: 299aabf7d193453f977e65f1a0802d344a0897f8
   React-perflogger: 0bb0522a12e058f6eb69d888bc16f40c16c4b907
   React-RCTActionSheet: bfd675a10f06a18728ea15d82082d48f228a213a
   React-RCTAnimation: 2fa220b2052ec75b733112aca39143d34546a941
